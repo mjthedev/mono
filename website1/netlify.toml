@@ -1,5 +1,5 @@
 [build]
-  publish = "website1/out"
+  publish = "out"
   command = "npm install && npm run build-prod"
 
 [build.environment]
